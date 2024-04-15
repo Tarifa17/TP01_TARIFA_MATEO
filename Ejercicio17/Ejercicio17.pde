@@ -16,7 +16,6 @@ void draw(){
  if(dist <=caja){
  println("Has obtenido caja");
  }
- 
  fill(0,255,255);
  rect(x2,y2,50,50);
  fill(255,0,0);
